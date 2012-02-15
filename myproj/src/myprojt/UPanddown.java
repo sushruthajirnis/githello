@@ -3,6 +3,7 @@ package myprojt;
 public class UPanddown {
 
 	/**
+	 * Entry point.
 	 * @param args
 	 */
 	public static void main(String[] args) {
