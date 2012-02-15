@@ -9,8 +9,9 @@ public class UPanddown {
 		// TODO Auto-generated method stub
 
 		System.out.println("Hello World");
-		System.our.println("Testing");
+		System.out.println("Testing");
 	
+		System.out.pirnt("Testing again");
 	
 	}
 
