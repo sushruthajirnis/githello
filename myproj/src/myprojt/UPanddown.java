@@ -15,4 +15,7 @@ public class UPanddown {
 		 
 		 System.out.println("changedthis");
 
-}
+
+		System.out.println("*");
+	}
+
