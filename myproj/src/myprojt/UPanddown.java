@@ -17,5 +17,6 @@ public class UPanddown {
 
 
 		System.out.println("*");
+		System.out.println("star printed");
 	}
 
