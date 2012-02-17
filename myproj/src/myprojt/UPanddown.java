@@ -12,7 +12,8 @@ public class UPanddown {
 		System.out.println("Hello World");
 		System.out.println("Testing");
 	
-		System.out.pirnt("Testing again");
+		System.out.println("Testing again");
+		System.out.println("Need to test the pull requests button");
 	
 	}
 
